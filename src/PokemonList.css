@@ -1,0 +1,14 @@
+.footer-link {
+  display: block;
+  font-weight: bold;
+  padding: 2% 0%;
+}
+
+.footer-link:link,
+.footer-link:visited {
+  color: #ededed;
+}
+
+.footer-link:hover {
+  color: #dfdfdf;
+}

@@ -1,0 +1,25 @@
+.center-cropped-search {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(48, 35, 35, 0.6), rgba(0, 0, 0, 0.9)),
+    url("/public/wallpaper.jpeg") no-repeat center 20%;
+  display: table;
+}
+
+.main-search {
+  padding: 10% 15%;
+  display: table-cell;
+  vertical-align: bottom;
+}
+
+.title-search {
+  color: #ededed;
+  text-align: center;
+  display: table-cell;
+  vertical-align: bottom;
+  padding-bottom: 2%;
+}
+
+.text-left {
+  text-align: left;
+}
